@@ -27,4 +27,4 @@ Develop an interactive BI dashboard to analyze TED conference data for:
 
 Provided actionable insights for planning future TED events based on audience preferences
 
-![screen](imag/Снимок экрана 2025-12-19 в 19.22.10.png)
+![screen](imag/screen1.png)
