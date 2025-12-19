@@ -1,6 +1,7 @@
 # TED Conferences Analytical Dashboard
 A company licensed to organize TED conferences is preparing its first event. The goal was to design a memorable and engaging conference experience by understanding audience preferences, speaker impact, and session structure.
-Dashboard Link: Yandex DataLens [TED Conferences Analytical Dashboard](https://datalens.ru/9sgo014i7akwu)
+Dashboard Link: Yandex DataLens 
+[![TED Conferences Analytical Dashboard](Снимок экрана 2025-12-19 в 19.22.10.png) (Снимок экрана 2025-12-19 в 19.22.33.png) (https://datalens.ru/9sgo014i7akwu)
 
 **Objective:**
 Develop an interactive BI dashboard to analyze TED conference data for:
